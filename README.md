@@ -1,4 +1,4 @@
-# Attentive Symmetric Autoencoder for Brain MRI Segmentation
+# Attentive Symmetric Autoencoder for Brain MRI Segmentation-MICCAI 2022
 
 ---
 
